@@ -1,4 +1,4 @@
-I'm a DevOps Specialist with comprehensive experience in managing and automating server infrastructures. My expertise spans across cloud platforms, container orchestration, CI/CD pipelines, and infrastructure as code. I am passionate about optimizing development processes and ensuring smooth and secure deployment pipelines.
+Hi, I'm a DevOps Specialist with comprehensive experience in managing and automating server infrastructures. My expertise spans across cloud platforms, container orchestration, CI/CD pipelines, and infrastructure as code. I am passionate about optimizing development processes and ensuring smooth and secure deployment pipelines.
 
 🔧 Technologies & Tools
 
